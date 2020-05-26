@@ -18,10 +18,12 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"helloworld");
-    NSLog(@"a code...");
+    NSLog(@"b code...");
     
     NSLog(@"helloworld");
+
     NSLog(@"a");
+
 
 
 }
